@@ -6,4 +6,4 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/tools.reader "0.7.4"]
                  [org.clojure/tools.cli "0.2.2"]
-                 [ring/ring-jetty-adapter "1.2.0-RC1"])
+                 [ring/ring-jetty-adapter "1.2.0-RC1"]])
