@@ -26,4 +26,4 @@ Copyright © 2014 Brian Picciano
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
-[example]: /src/my-compojure/example.clj
+[example]: /src/my_compojure/example.clj
