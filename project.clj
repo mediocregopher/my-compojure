@@ -1,4 +1,4 @@
-(defproject my-compojure "0.1.0"
+(defproject org.clojars.mediocregopher/my-compojure "0.1.0"
   :description "A wrapper around the basic pattern I generally use for compojure projects"
   :url "http://github.com/mediocregopher/my-compojure"
   :license {:name "Eclipse Public License"
